@@ -53,4 +53,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Vipul987654/leethub/tree/master/0169-majority-element) |
+## Math
+|  |
+| ------- |
+| [0007-reverse-integer](https://github.com/Vipul987654/leethub/tree/master/0007-reverse-integer) |
 <!---LeetCode Topics End-->
