@@ -67,11 +67,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Tree
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/Vipul987654/leethub/tree/master/0094-binary-tree-inorder-traversal) |
 | [0100-same-tree](https://github.com/Vipul987654/leethub/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Vipul987654/leethub/tree/master/0104-maximum-depth-of-binary-tree) |
 ## Depth-First Search
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/Vipul987654/leethub/tree/master/0094-binary-tree-inorder-traversal) |
 | [0100-same-tree](https://github.com/Vipul987654/leethub/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Vipul987654/leethub/tree/master/0104-maximum-depth-of-binary-tree) |
 ## Breadth-First Search
@@ -82,10 +84,15 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Tree
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/Vipul987654/leethub/tree/master/0094-binary-tree-inorder-traversal) |
 | [0100-same-tree](https://github.com/Vipul987654/leethub/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Vipul987654/leethub/tree/master/0104-maximum-depth-of-binary-tree) |
 ## String
 |  |
 | ------- |
 | [0242-valid-anagram](https://github.com/Vipul987654/leethub/tree/master/0242-valid-anagram) |
+## Stack
+|  |
+| ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/Vipul987654/leethub/tree/master/0094-binary-tree-inorder-traversal) |
 <!---LeetCode Topics End-->
