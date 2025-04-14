@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Divide and Conquer
 |  |
 | ------- |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Vipul987654/leethub/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/Vipul987654/leethub/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0169-majority-element](https://github.com/Vipul987654/leethub/tree/master/0169-majority-element) |
 | [0191-number-of-1-bits](https://github.com/Vipul987654/leethub/tree/master/0191-number-of-1-bits) |
@@ -19,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Vipul987654/leethub/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Vipul987654/leethub/tree/master/0027-remove-element) |
 | [0055-jump-game](https://github.com/Vipul987654/leethub/tree/master/0055-jump-game) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Vipul987654/leethub/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Vipul987654/leethub/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0134-gas-station](https://github.com/Vipul987654/leethub/tree/master/0134-gas-station) |
 | [0136-single-number](https://github.com/Vipul987654/leethub/tree/master/0136-single-number) |
@@ -75,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0100-same-tree](https://github.com/Vipul987654/leethub/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/Vipul987654/leethub/tree/master/0101-symmetric-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Vipul987654/leethub/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Vipul987654/leethub/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/Vipul987654/leethub/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 ## Depth-First Search
 |  |
@@ -98,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0100-same-tree](https://github.com/Vipul987654/leethub/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/Vipul987654/leethub/tree/master/0101-symmetric-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Vipul987654/leethub/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Vipul987654/leethub/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/Vipul987654/leethub/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 ## String
 |  |
@@ -111,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/Vipul987654/leethub/tree/master/0098-validate-binary-search-tree) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Vipul987654/leethub/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/Vipul987654/leethub/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 ## Recursion
 |  |
