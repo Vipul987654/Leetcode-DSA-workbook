@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/Vipul987654/leethub/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/Vipul987654/leethub/tree/master/0238-product-of-array-except-self) |
 | [1656-count-good-triplets](https://github.com/Vipul987654/leethub/tree/master/1656-count-good-triplets) |
+| [2277-count-equal-and-divisible-pairs-in-an-array](https://github.com/Vipul987654/leethub/tree/master/2277-count-equal-and-divisible-pairs-in-an-array) |
 ## Two Pointers
 |  |
 | ------- |
