@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/Vipul987654/leethub/tree/master/0217-contains-duplicate) |
 | [0228-summary-ranges](https://github.com/Vipul987654/leethub/tree/master/0228-summary-ranges) |
 | [0238-product-of-array-except-self](https://github.com/Vipul987654/leethub/tree/master/0238-product-of-array-except-self) |
+| [0797-rabbits-in-forest](https://github.com/Vipul987654/leethub/tree/master/0797-rabbits-in-forest) |
 | [1656-count-good-triplets](https://github.com/Vipul987654/leethub/tree/master/1656-count-good-triplets) |
 | [2277-count-equal-and-divisible-pairs-in-an-array](https://github.com/Vipul987654/leethub/tree/master/2277-count-equal-and-divisible-pairs-in-an-array) |
 ## Two Pointers
@@ -46,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0055-jump-game](https://github.com/Vipul987654/leethub/tree/master/0055-jump-game) |
 | [0134-gas-station](https://github.com/Vipul987654/leethub/tree/master/0134-gas-station) |
+| [0797-rabbits-in-forest](https://github.com/Vipul987654/leethub/tree/master/0797-rabbits-in-forest) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -57,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/Vipul987654/leethub/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Vipul987654/leethub/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Vipul987654/leethub/tree/master/0242-valid-anagram) |
+| [0797-rabbits-in-forest](https://github.com/Vipul987654/leethub/tree/master/0797-rabbits-in-forest) |
 ## Sorting
 |  |
 | ------- |
@@ -71,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0007-reverse-integer](https://github.com/Vipul987654/leethub/tree/master/0007-reverse-integer) |
+| [0797-rabbits-in-forest](https://github.com/Vipul987654/leethub/tree/master/0797-rabbits-in-forest) |
 | [2050-count-good-numbers](https://github.com/Vipul987654/leethub/tree/master/2050-count-good-numbers) |
 ## Tree
 |  |
