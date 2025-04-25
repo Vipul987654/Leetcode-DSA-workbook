@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Vipul987654/leethub/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Vipul987654/leethub/tree/master/0027-remove-element) |
+| [0142-linked-list-cycle-ii](https://github.com/Vipul987654/leethub/tree/master/0142-linked-list-cycle-ii) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -56,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Vipul987654/leethub/tree/master/0001-two-sum) |
+| [0142-linked-list-cycle-ii](https://github.com/Vipul987654/leethub/tree/master/0142-linked-list-cycle-ii) |
 | [0169-majority-element](https://github.com/Vipul987654/leethub/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Vipul987654/leethub/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Vipul987654/leethub/tree/master/0242-valid-anagram) |
@@ -138,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/Vipul987654/leethub/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
+| [0142-linked-list-cycle-ii](https://github.com/Vipul987654/leethub/tree/master/0142-linked-list-cycle-ii) |
 ## Backtracking
 |  |
 | ------- |
