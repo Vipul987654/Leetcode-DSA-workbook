@@ -86,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0263-ugly-number](https://github.com/Vipul987654/leethub/tree/master/0263-ugly-number) |
 | [0797-rabbits-in-forest](https://github.com/Vipul987654/leethub/tree/master/0797-rabbits-in-forest) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/Vipul987654/leethub/tree/master/1421-find-numbers-with-even-number-of-digits) |
+| [1806-count-of-matches-in-tournament](https://github.com/Vipul987654/leethub/tree/master/1806-count-of-matches-in-tournament) |
 | [2050-count-good-numbers](https://github.com/Vipul987654/leethub/tree/master/2050-count-good-numbers) |
 ## Tree
 |  |
@@ -170,4 +171,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0039-combination-sum](https://github.com/Vipul987654/leethub/tree/master/0039-combination-sum) |
+## Simulation
+|  |
+| ------- |
+| [1806-count-of-matches-in-tournament](https://github.com/Vipul987654/leethub/tree/master/1806-count-of-matches-in-tournament) |
 <!---LeetCode Topics End-->
