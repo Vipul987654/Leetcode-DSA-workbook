@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0228-summary-ranges](https://github.com/Vipul987654/leethub/tree/master/0228-summary-ranges) |
 | [0238-product-of-array-except-self](https://github.com/Vipul987654/leethub/tree/master/0238-product-of-array-except-self) |
 | [0797-rabbits-in-forest](https://github.com/Vipul987654/leethub/tree/master/0797-rabbits-in-forest) |
+| [0898-transpose-matrix](https://github.com/Vipul987654/leethub/tree/master/0898-transpose-matrix) |
 | [1293-three-consecutive-odds](https://github.com/Vipul987654/leethub/tree/master/1293-three-consecutive-odds) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/Vipul987654/leethub/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1656-count-good-triplets](https://github.com/Vipul987654/leethub/tree/master/1656-count-good-triplets) |
@@ -177,5 +178,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0898-transpose-matrix](https://github.com/Vipul987654/leethub/tree/master/0898-transpose-matrix) |
 | [1806-count-of-matches-in-tournament](https://github.com/Vipul987654/leethub/tree/master/1806-count-of-matches-in-tournament) |
+## Matrix
+|  |
+| ------- |
+| [0898-transpose-matrix](https://github.com/Vipul987654/leethub/tree/master/0898-transpose-matrix) |
 <!---LeetCode Topics End-->
