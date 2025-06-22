@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/Vipul987654/leethub/tree/master/0055-jump-game) |
 | [0134-gas-station](https://github.com/Vipul987654/leethub/tree/master/0134-gas-station) |
 | [0797-rabbits-in-forest](https://github.com/Vipul987654/leethub/tree/master/0797-rabbits-in-forest) |
+| [2032-largest-odd-number-in-string](https://github.com/Vipul987654/leethub/tree/master/2032-largest-odd-number-in-string) |
 | [3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros](https://github.com/Vipul987654/leethub/tree/master/3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros) |
 ## Prefix Sum
 |  |
@@ -87,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0797-rabbits-in-forest](https://github.com/Vipul987654/leethub/tree/master/0797-rabbits-in-forest) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/Vipul987654/leethub/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1806-count-of-matches-in-tournament](https://github.com/Vipul987654/leethub/tree/master/1806-count-of-matches-in-tournament) |
+| [2032-largest-odd-number-in-string](https://github.com/Vipul987654/leethub/tree/master/2032-largest-odd-number-in-string) |
 | [2050-count-good-numbers](https://github.com/Vipul987654/leethub/tree/master/2050-count-good-numbers) |
 ## Tree
 |  |
@@ -142,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0038-count-and-say](https://github.com/Vipul987654/leethub/tree/master/0038-count-and-say) |
 | [0242-valid-anagram](https://github.com/Vipul987654/leethub/tree/master/0242-valid-anagram) |
 | [0389-find-the-difference](https://github.com/Vipul987654/leethub/tree/master/0389-find-the-difference) |
+| [2032-largest-odd-number-in-string](https://github.com/Vipul987654/leethub/tree/master/2032-largest-odd-number-in-string) |
 | [2346-largest-3-same-digit-number-in-string](https://github.com/Vipul987654/leethub/tree/master/2346-largest-3-same-digit-number-in-string) |
 ## Stack
 |  |
