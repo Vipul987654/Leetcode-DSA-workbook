@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1293-three-consecutive-odds](https://github.com/Vipul987654/leethub/tree/master/1293-three-consecutive-odds) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/Vipul987654/leethub/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1656-count-good-triplets](https://github.com/Vipul987654/leethub/tree/master/1656-count-good-triplets) |
+| [1704-special-positions-in-a-binary-matrix](https://github.com/Vipul987654/leethub/tree/master/1704-special-positions-in-a-binary-matrix) |
 | [2277-count-equal-and-divisible-pairs-in-an-array](https://github.com/Vipul987654/leethub/tree/master/2277-count-equal-and-divisible-pairs-in-an-array) |
 | [3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros](https://github.com/Vipul987654/leethub/tree/master/3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros) |
 ## Two Pointers
@@ -184,4 +185,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0898-transpose-matrix](https://github.com/Vipul987654/leethub/tree/master/0898-transpose-matrix) |
+| [1704-special-positions-in-a-binary-matrix](https://github.com/Vipul987654/leethub/tree/master/1704-special-positions-in-a-binary-matrix) |
 <!---LeetCode Topics End-->
