@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0039-combination-sum](https://github.com/Vipul987654/leethub/tree/master/0039-combination-sum) |
 | [0055-jump-game](https://github.com/Vipul987654/leethub/tree/master/0055-jump-game) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Vipul987654/leethub/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0118-pascals-triangle](https://github.com/Vipul987654/leethub/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Vipul987654/leethub/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0134-gas-station](https://github.com/Vipul987654/leethub/tree/master/0134-gas-station) |
 | [0136-single-number](https://github.com/Vipul987654/leethub/tree/master/0136-single-number) |
@@ -48,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0055-jump-game](https://github.com/Vipul987654/leethub/tree/master/0055-jump-game) |
+| [0118-pascals-triangle](https://github.com/Vipul987654/leethub/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Vipul987654/leethub/tree/master/0121-best-time-to-buy-and-sell-stock) |
 ## Greedy
 |  |
