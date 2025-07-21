@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2277-count-equal-and-divisible-pairs-in-an-array](https://github.com/Vipul987654/leethub/tree/master/2277-count-equal-and-divisible-pairs-in-an-array) |
 | [3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros](https://github.com/Vipul987654/leethub/tree/master/3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros) |
 | [3490-find-the-maximum-length-of-valid-subsequence-i](https://github.com/Vipul987654/leethub/tree/master/3490-find-the-maximum-length-of-valid-subsequence-i) |
+| [3685-count-subarrays-of-length-three-with-a-condition](https://github.com/Vipul987654/leethub/tree/master/3685-count-subarrays-of-length-three-with-a-condition) |
 ## Two Pointers
 |  |
 | ------- |
