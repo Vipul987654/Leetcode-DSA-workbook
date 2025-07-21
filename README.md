@@ -159,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2032-largest-odd-number-in-string](https://github.com/Vipul987654/leethub/tree/master/2032-largest-odd-number-in-string) |
 | [2346-largest-3-same-digit-number-in-string](https://github.com/Vipul987654/leethub/tree/master/2346-largest-3-same-digit-number-in-string) |
 | [3396-valid-word](https://github.com/Vipul987654/leethub/tree/master/3396-valid-word) |
+| [3617-find-the-original-typed-string-i](https://github.com/Vipul987654/leethub/tree/master/3617-find-the-original-typed-string-i) |
 ## Stack
 |  |
 | ------- |
