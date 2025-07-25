@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros](https://github.com/Vipul987654/leethub/tree/master/3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros) |
 | [3490-find-the-maximum-length-of-valid-subsequence-i](https://github.com/Vipul987654/leethub/tree/master/3490-find-the-maximum-length-of-valid-subsequence-i) |
 | [3685-count-subarrays-of-length-three-with-a-condition](https://github.com/Vipul987654/leethub/tree/master/3685-count-subarrays-of-length-three-with-a-condition) |
+| [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/Vipul987654/leethub/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 ## Two Pointers
 |  |
 | ------- |
@@ -63,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0797-rabbits-in-forest](https://github.com/Vipul987654/leethub/tree/master/0797-rabbits-in-forest) |
 | [2032-largest-odd-number-in-string](https://github.com/Vipul987654/leethub/tree/master/2032-largest-odd-number-in-string) |
 | [3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros](https://github.com/Vipul987654/leethub/tree/master/3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros) |
+| [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/Vipul987654/leethub/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -79,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0797-rabbits-in-forest](https://github.com/Vipul987654/leethub/tree/master/0797-rabbits-in-forest) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/Vipul987654/leethub/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1746-largest-substring-between-two-equal-characters](https://github.com/Vipul987654/leethub/tree/master/1746-largest-substring-between-two-equal-characters) |
+| [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/Vipul987654/leethub/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 ## Sorting
 |  |
 | ------- |
