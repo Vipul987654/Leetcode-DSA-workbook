@@ -206,4 +206,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0898-transpose-matrix](https://github.com/Vipul987654/leethub/tree/master/0898-transpose-matrix) |
 | [1704-special-positions-in-a-binary-matrix](https://github.com/Vipul987654/leethub/tree/master/1704-special-positions-in-a-binary-matrix) |
+## Database
+|  |
+| ------- |
+| [1174-sales-analysis-iii](https://github.com/Vipul987654/Leetcode-DSA-workbook/tree/master/1174-sales-analysis-iii) |
 <!---LeetCode Topics End-->
