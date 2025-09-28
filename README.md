@@ -84,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0142-linked-list-cycle-ii](https://github.com/Vipul987654/leethub/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Vipul987654/Leetcode-DSA-workbook/tree/master/0160-intersection-of-two-linked-lists) |
 | [0169-majority-element](https://github.com/Vipul987654/leethub/tree/master/0169-majority-element) |
+| [0205-isomorphic-strings](https://github.com/Vipul987654/Leetcode-DSA-workbook/tree/master/0205-isomorphic-strings) |
 | [0217-contains-duplicate](https://github.com/Vipul987654/leethub/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Vipul987654/leethub/tree/master/0242-valid-anagram) |
 | [0389-find-the-difference](https://github.com/Vipul987654/leethub/tree/master/0389-find-the-difference) |
@@ -178,6 +179,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/Vipul987654/Leetcode-DSA-workbook/tree/master/0014-longest-common-prefix) |
 | [0038-count-and-say](https://github.com/Vipul987654/leethub/tree/master/0038-count-and-say) |
 | [0179-largest-number](https://github.com/Vipul987654/leethub/tree/master/0179-largest-number) |
+| [0205-isomorphic-strings](https://github.com/Vipul987654/Leetcode-DSA-workbook/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/Vipul987654/leethub/tree/master/0242-valid-anagram) |
 | [0389-find-the-difference](https://github.com/Vipul987654/leethub/tree/master/0389-find-the-difference) |
 | [0953-reverse-only-letters](https://github.com/Vipul987654/Leetcode-DSA-workbook/tree/master/0953-reverse-only-letters) |
