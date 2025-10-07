@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0136-single-number](https://github.com/Vipul987654/leethub/tree/master/0136-single-number) |
 | [0191-number-of-1-bits](https://github.com/Vipul987654/leethub/tree/master/0191-number-of-1-bits) |
+| [0231-power-of-two](https://github.com/Vipul987654/Leetcode-DSA-workbook/tree/master/0231-power-of-two) |
 | [0389-find-the-difference](https://github.com/Vipul987654/leethub/tree/master/0389-find-the-difference) |
 ## Array
 |  |
@@ -112,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0007-reverse-integer](https://github.com/Vipul987654/leethub/tree/master/0007-reverse-integer) |
+| [0231-power-of-two](https://github.com/Vipul987654/Leetcode-DSA-workbook/tree/master/0231-power-of-two) |
 | [0263-ugly-number](https://github.com/Vipul987654/leethub/tree/master/0263-ugly-number) |
 | [0797-rabbits-in-forest](https://github.com/Vipul987654/leethub/tree/master/0797-rabbits-in-forest) |
 | [1018-largest-perimeter-triangle](https://github.com/Vipul987654/Leetcode-DSA-workbook/tree/master/1018-largest-perimeter-triangle) |
@@ -217,6 +219,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0231-power-of-two](https://github.com/Vipul987654/Leetcode-DSA-workbook/tree/master/0231-power-of-two) |
 | [2050-count-good-numbers](https://github.com/Vipul987654/leethub/tree/master/2050-count-good-numbers) |
 ## Enumeration
 |  |
