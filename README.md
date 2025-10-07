@@ -115,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0007-reverse-integer](https://github.com/Vipul987654/leethub/tree/master/0007-reverse-integer) |
 | [0231-power-of-two](https://github.com/Vipul987654/Leetcode-DSA-workbook/tree/master/0231-power-of-two) |
 | [0263-ugly-number](https://github.com/Vipul987654/leethub/tree/master/0263-ugly-number) |
+| [0326-power-of-three](https://github.com/Vipul987654/Leetcode-DSA-workbook/tree/master/0326-power-of-three) |
 | [0797-rabbits-in-forest](https://github.com/Vipul987654/leethub/tree/master/0797-rabbits-in-forest) |
 | [1018-largest-perimeter-triangle](https://github.com/Vipul987654/Leetcode-DSA-workbook/tree/master/1018-largest-perimeter-triangle) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/Vipul987654/leethub/tree/master/1421-find-numbers-with-even-number-of-digits) |
@@ -220,6 +221,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/Vipul987654/Leetcode-DSA-workbook/tree/master/0231-power-of-two) |
+| [0326-power-of-three](https://github.com/Vipul987654/Leetcode-DSA-workbook/tree/master/0326-power-of-three) |
 | [2050-count-good-numbers](https://github.com/Vipul987654/leethub/tree/master/2050-count-good-numbers) |
 ## Enumeration
 |  |
