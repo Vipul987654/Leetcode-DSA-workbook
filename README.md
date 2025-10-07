@@ -63,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/Vipul987654/leethub/tree/master/0055-jump-game) |
 | [0118-pascals-triangle](https://github.com/Vipul987654/leethub/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Vipul987654/leethub/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [1013-fibonacci-number](https://github.com/Vipul987654/Leetcode-DSA-workbook/tree/master/1013-fibonacci-number) |
 | [3490-find-the-maximum-length-of-valid-subsequence-i](https://github.com/Vipul987654/leethub/tree/master/3490-find-the-maximum-length-of-valid-subsequence-i) |
 ## Greedy
 |  |
@@ -119,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0326-power-of-three](https://github.com/Vipul987654/Leetcode-DSA-workbook/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/Vipul987654/Leetcode-DSA-workbook/tree/master/0342-power-of-four) |
 | [0797-rabbits-in-forest](https://github.com/Vipul987654/leethub/tree/master/0797-rabbits-in-forest) |
+| [1013-fibonacci-number](https://github.com/Vipul987654/Leetcode-DSA-workbook/tree/master/1013-fibonacci-number) |
 | [1018-largest-perimeter-triangle](https://github.com/Vipul987654/Leetcode-DSA-workbook/tree/master/1018-largest-perimeter-triangle) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/Vipul987654/leethub/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1440-convert-integer-to-the-sum-of-two-no-zero-integers](https://github.com/Vipul987654/Leetcode-DSA-workbook/tree/master/1440-convert-integer-to-the-sum-of-two-no-zero-integers) |
@@ -225,6 +227,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/Vipul987654/Leetcode-DSA-workbook/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/Vipul987654/Leetcode-DSA-workbook/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/Vipul987654/Leetcode-DSA-workbook/tree/master/0342-power-of-four) |
+| [1013-fibonacci-number](https://github.com/Vipul987654/Leetcode-DSA-workbook/tree/master/1013-fibonacci-number) |
 | [2050-count-good-numbers](https://github.com/Vipul987654/leethub/tree/master/2050-count-good-numbers) |
 ## Enumeration
 |  |
@@ -259,4 +262,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/Vipul987654/Leetcode-DSA-workbook/tree/master/0014-longest-common-prefix) |
+## Memoization
+|  |
+| ------- |
+| [1013-fibonacci-number](https://github.com/Vipul987654/Leetcode-DSA-workbook/tree/master/1013-fibonacci-number) |
 <!---LeetCode Topics End-->
