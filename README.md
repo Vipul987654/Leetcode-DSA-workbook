@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/Vipul987654/leethub/tree/master/0027-remove-element) |
 | [0142-linked-list-cycle-ii](https://github.com/Vipul987654/leethub/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Vipul987654/Leetcode-DSA-workbook/tree/master/0160-intersection-of-two-linked-lists) |
+| [0345-reverse-vowels-of-a-string](https://github.com/Vipul987654/Leetcode-DSA-workbook/tree/master/0345-reverse-vowels-of-a-string) |
 | [0953-reverse-only-letters](https://github.com/Vipul987654/Leetcode-DSA-workbook/tree/master/0953-reverse-only-letters) |
 ## Dynamic Programming
 |  |
@@ -200,6 +201,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0179-largest-number](https://github.com/Vipul987654/leethub/tree/master/0179-largest-number) |
 | [0205-isomorphic-strings](https://github.com/Vipul987654/Leetcode-DSA-workbook/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/Vipul987654/leethub/tree/master/0242-valid-anagram) |
+| [0345-reverse-vowels-of-a-string](https://github.com/Vipul987654/Leetcode-DSA-workbook/tree/master/0345-reverse-vowels-of-a-string) |
 | [0389-find-the-difference](https://github.com/Vipul987654/leethub/tree/master/0389-find-the-difference) |
 | [0953-reverse-only-letters](https://github.com/Vipul987654/Leetcode-DSA-workbook/tree/master/0953-reverse-only-letters) |
 | [1302-delete-characters-to-make-fancy-string](https://github.com/Vipul987654/leethub/tree/master/1302-delete-characters-to-make-fancy-string) |
