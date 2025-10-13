@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2277-count-equal-and-divisible-pairs-in-an-array](https://github.com/Vipul987654/leethub/tree/master/2277-count-equal-and-divisible-pairs-in-an-array) |
 | [3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros](https://github.com/Vipul987654/leethub/tree/master/3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/Vipul987654/Leetcode-DSA-workbook/tree/master/3242-count-elements-with-maximum-frequency) |
+| [3321-type-of-triangle](https://github.com/Vipul987654/Leetcode-DSA-workbook/tree/master/3321-type-of-triangle) |
 | [3490-find-the-maximum-length-of-valid-subsequence-i](https://github.com/Vipul987654/leethub/tree/master/3490-find-the-maximum-length-of-valid-subsequence-i) |
 | [3685-count-subarrays-of-length-three-with-a-condition](https://github.com/Vipul987654/leethub/tree/master/3685-count-subarrays-of-length-three-with-a-condition) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/Vipul987654/leethub/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
@@ -116,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0389-find-the-difference](https://github.com/Vipul987654/leethub/tree/master/0389-find-the-difference) |
 | [1018-largest-perimeter-triangle](https://github.com/Vipul987654/Leetcode-DSA-workbook/tree/master/1018-largest-perimeter-triangle) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/Vipul987654/Leetcode-DSA-workbook/tree/master/1353-find-resultant-array-after-removing-anagrams) |
+| [3321-type-of-triangle](https://github.com/Vipul987654/Leetcode-DSA-workbook/tree/master/3321-type-of-triangle) |
 ## Counting
 |  |
 | ------- |
@@ -139,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1806-count-of-matches-in-tournament](https://github.com/Vipul987654/leethub/tree/master/1806-count-of-matches-in-tournament) |
 | [2032-largest-odd-number-in-string](https://github.com/Vipul987654/leethub/tree/master/2032-largest-odd-number-in-string) |
 | [2050-count-good-numbers](https://github.com/Vipul987654/leethub/tree/master/2050-count-good-numbers) |
+| [3321-type-of-triangle](https://github.com/Vipul987654/Leetcode-DSA-workbook/tree/master/3321-type-of-triangle) |
 ## Tree
 |  |
 | ------- |
