@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0898-transpose-matrix](https://github.com/Vipul987654/leethub/tree/master/0898-transpose-matrix) |
 | [1018-largest-perimeter-triangle](https://github.com/Vipul987654/Leetcode-DSA-workbook/tree/master/1018-largest-perimeter-triangle) |
 | [1293-three-consecutive-odds](https://github.com/Vipul987654/leethub/tree/master/1293-three-consecutive-odds) |
+| [1353-find-resultant-array-after-removing-anagrams](https://github.com/Vipul987654/Leetcode-DSA-workbook/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/Vipul987654/leethub/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/Vipul987654/leethub/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1656-count-good-triplets](https://github.com/Vipul987654/leethub/tree/master/1656-count-good-triplets) |
@@ -99,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/Vipul987654/Leetcode-DSA-workbook/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0389-find-the-difference](https://github.com/Vipul987654/leethub/tree/master/0389-find-the-difference) |
 | [0797-rabbits-in-forest](https://github.com/Vipul987654/leethub/tree/master/0797-rabbits-in-forest) |
+| [1353-find-resultant-array-after-removing-anagrams](https://github.com/Vipul987654/Leetcode-DSA-workbook/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/Vipul987654/leethub/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1746-largest-substring-between-two-equal-characters](https://github.com/Vipul987654/leethub/tree/master/1746-largest-substring-between-two-equal-characters) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/Vipul987654/Leetcode-DSA-workbook/tree/master/3242-count-elements-with-maximum-frequency) |
@@ -113,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/Vipul987654/Leetcode-DSA-workbook/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0389-find-the-difference](https://github.com/Vipul987654/leethub/tree/master/0389-find-the-difference) |
 | [1018-largest-perimeter-triangle](https://github.com/Vipul987654/Leetcode-DSA-workbook/tree/master/1018-largest-perimeter-triangle) |
+| [1353-find-resultant-array-after-removing-anagrams](https://github.com/Vipul987654/Leetcode-DSA-workbook/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 ## Counting
 |  |
 | ------- |
@@ -212,6 +215,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0389-find-the-difference](https://github.com/Vipul987654/leethub/tree/master/0389-find-the-difference) |
 | [0953-reverse-only-letters](https://github.com/Vipul987654/Leetcode-DSA-workbook/tree/master/0953-reverse-only-letters) |
 | [1302-delete-characters-to-make-fancy-string](https://github.com/Vipul987654/leethub/tree/master/1302-delete-characters-to-make-fancy-string) |
+| [1353-find-resultant-array-after-removing-anagrams](https://github.com/Vipul987654/Leetcode-DSA-workbook/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1746-largest-substring-between-two-equal-characters](https://github.com/Vipul987654/leethub/tree/master/1746-largest-substring-between-two-equal-characters) |
 | [2032-largest-odd-number-in-string](https://github.com/Vipul987654/leethub/tree/master/2032-largest-odd-number-in-string) |
 | [2346-largest-3-same-digit-number-in-string](https://github.com/Vipul987654/leethub/tree/master/2346-largest-3-same-digit-number-in-string) |
