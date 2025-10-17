@@ -240,6 +240,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0098-validate-binary-search-tree](https://github.com/Vipul987654/leethub/tree/master/0098-validate-binary-search-tree) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Vipul987654/leethub/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/Vipul987654/leethub/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
+| [0278-first-bad-version](https://github.com/Vipul987654/Leetcode-DSA-workbook/tree/master/0278-first-bad-version) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Vipul987654/Leetcode-DSA-workbook/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/Vipul987654/Leetcode-DSA-workbook/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0783-search-in-a-binary-search-tree](https://github.com/Vipul987654/Leetcode-DSA-workbook/tree/master/0783-search-in-a-binary-search-tree) |
@@ -308,4 +309,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0948-sort-an-array](https://github.com/Vipul987654/Leetcode-DSA-workbook/tree/master/0948-sort-an-array) |
+## Interactive
+|  |
+| ------- |
+| [0278-first-bad-version](https://github.com/Vipul987654/Leetcode-DSA-workbook/tree/master/0278-first-bad-version) |
 <!---LeetCode Topics End-->
