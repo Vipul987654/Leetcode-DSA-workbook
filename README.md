@@ -1,4 +1,4 @@
-A collection of LeetCode questions to ace the coding interview! - Created using [LeetHub v2](https://github.com/arunbhardwaj/LeetHub-2.0)
+my work on leetcode to strengthen my logic building and to refresh Core concepts
 <!---LeetCode Topics Start-->
 # LeetCode Topics
 ## Divide and Conquer
