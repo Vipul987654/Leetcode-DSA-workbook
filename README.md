@@ -149,6 +149,7 @@ my work on leetcode to strengthen my logic building and to refresh Core concepts
 | [2032-largest-odd-number-in-string](https://github.com/Vipul987654/leethub/tree/master/2032-largest-odd-number-in-string) |
 | [2050-count-good-numbers](https://github.com/Vipul987654/leethub/tree/master/2050-count-good-numbers) |
 | [3321-type-of-triangle](https://github.com/Vipul987654/Leetcode-DSA-workbook/tree/master/3321-type-of-triangle) |
+| [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/Vipul987654/Leetcode-DSA-workbook/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 ## Tree
 |  |
 | ------- |
@@ -232,6 +233,7 @@ my work on leetcode to strengthen my logic building and to refresh Core concepts
 | [3194-find-words-containing-character](https://github.com/Vipul987654/Leetcode-DSA-workbook/tree/master/3194-find-words-containing-character) |
 | [3396-valid-word](https://github.com/Vipul987654/leethub/tree/master/3396-valid-word) |
 | [3617-find-the-original-typed-string-i](https://github.com/Vipul987654/leethub/tree/master/3617-find-the-original-typed-string-i) |
+| [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/Vipul987654/Leetcode-DSA-workbook/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 ## Stack
 |  |
 | ------- |
@@ -275,6 +277,7 @@ my work on leetcode to strengthen my logic building and to refresh Core concepts
 | [0898-transpose-matrix](https://github.com/Vipul987654/leethub/tree/master/0898-transpose-matrix) |
 | [1642-water-bottles](https://github.com/Vipul987654/Leetcode-DSA-workbook/tree/master/1642-water-bottles) |
 | [1806-count-of-matches-in-tournament](https://github.com/Vipul987654/leethub/tree/master/1806-count-of-matches-in-tournament) |
+| [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/Vipul987654/Leetcode-DSA-workbook/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 ## Matrix
 |  |
 | ------- |
@@ -316,4 +319,12 @@ my work on leetcode to strengthen my logic building and to refresh Core concepts
 |  |
 | ------- |
 | [0278-first-bad-version](https://github.com/Vipul987654/Leetcode-DSA-workbook/tree/master/0278-first-bad-version) |
+## Combinatorics
+|  |
+| ------- |
+| [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/Vipul987654/Leetcode-DSA-workbook/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
+## Number Theory
+|  |
+| ------- |
+| [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/Vipul987654/Leetcode-DSA-workbook/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 <!---LeetCode Topics End-->
