@@ -109,6 +109,7 @@ my work on leetcode to strengthen my logic building and to refresh Core concepts
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/Vipul987654/Leetcode-DSA-workbook/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/Vipul987654/leethub/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1746-largest-substring-between-two-equal-characters](https://github.com/Vipul987654/leethub/tree/master/1746-largest-substring-between-two-equal-characters) |
+| [2174-next-greater-numerically-balanced-number](https://github.com/Vipul987654/Leetcode-DSA-workbook/tree/master/2174-next-greater-numerically-balanced-number) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/Vipul987654/Leetcode-DSA-workbook/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/Vipul987654/leethub/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 ## Sorting
@@ -130,6 +131,7 @@ my work on leetcode to strengthen my logic building and to refresh Core concepts
 | ------- |
 | [0169-majority-element](https://github.com/Vipul987654/leethub/tree/master/0169-majority-element) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/Vipul987654/leethub/tree/master/1510-find-lucky-integer-in-an-array) |
+| [2174-next-greater-numerically-balanced-number](https://github.com/Vipul987654/Leetcode-DSA-workbook/tree/master/2174-next-greater-numerically-balanced-number) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/Vipul987654/Leetcode-DSA-workbook/tree/master/3242-count-elements-with-maximum-frequency) |
 ## Math
 |  |
@@ -148,6 +150,7 @@ my work on leetcode to strengthen my logic building and to refresh Core concepts
 | [1806-count-of-matches-in-tournament](https://github.com/Vipul987654/leethub/tree/master/1806-count-of-matches-in-tournament) |
 | [2032-largest-odd-number-in-string](https://github.com/Vipul987654/leethub/tree/master/2032-largest-odd-number-in-string) |
 | [2050-count-good-numbers](https://github.com/Vipul987654/leethub/tree/master/2050-count-good-numbers) |
+| [2174-next-greater-numerically-balanced-number](https://github.com/Vipul987654/Leetcode-DSA-workbook/tree/master/2174-next-greater-numerically-balanced-number) |
 | [3321-type-of-triangle](https://github.com/Vipul987654/Leetcode-DSA-workbook/tree/master/3321-type-of-triangle) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/Vipul987654/Leetcode-DSA-workbook/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 ## Tree
@@ -261,6 +264,7 @@ my work on leetcode to strengthen my logic building and to refresh Core concepts
 |  |
 | ------- |
 | [1656-count-good-triplets](https://github.com/Vipul987654/leethub/tree/master/1656-count-good-triplets) |
+| [2174-next-greater-numerically-balanced-number](https://github.com/Vipul987654/Leetcode-DSA-workbook/tree/master/2174-next-greater-numerically-balanced-number) |
 ## Linked List
 |  |
 | ------- |
@@ -271,6 +275,7 @@ my work on leetcode to strengthen my logic building and to refresh Core concepts
 |  |
 | ------- |
 | [0039-combination-sum](https://github.com/Vipul987654/leethub/tree/master/0039-combination-sum) |
+| [2174-next-greater-numerically-balanced-number](https://github.com/Vipul987654/Leetcode-DSA-workbook/tree/master/2174-next-greater-numerically-balanced-number) |
 ## Simulation
 |  |
 | ------- |
