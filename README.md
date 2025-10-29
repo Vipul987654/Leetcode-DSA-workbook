@@ -17,6 +17,7 @@ my work on leetcode to strengthen my logic building and to refresh Core concepts
 | [0231-power-of-two](https://github.com/Vipul987654/Leetcode-DSA-workbook/tree/master/0231-power-of-two) |
 | [0342-power-of-four](https://github.com/Vipul987654/Leetcode-DSA-workbook/tree/master/0342-power-of-four) |
 | [0389-find-the-difference](https://github.com/Vipul987654/leethub/tree/master/0389-find-the-difference) |
+| [3676-smallest-number-with-all-set-bits](https://github.com/Vipul987654/Leetcode-DSA-workbook/tree/master/3676-smallest-number-with-all-set-bits) |
 ## Array
 |  |
 | ------- |
@@ -154,6 +155,7 @@ my work on leetcode to strengthen my logic building and to refresh Core concepts
 | [2050-count-good-numbers](https://github.com/Vipul987654/leethub/tree/master/2050-count-good-numbers) |
 | [2174-next-greater-numerically-balanced-number](https://github.com/Vipul987654/Leetcode-DSA-workbook/tree/master/2174-next-greater-numerically-balanced-number) |
 | [3321-type-of-triangle](https://github.com/Vipul987654/Leetcode-DSA-workbook/tree/master/3321-type-of-triangle) |
+| [3676-smallest-number-with-all-set-bits](https://github.com/Vipul987654/Leetcode-DSA-workbook/tree/master/3676-smallest-number-with-all-set-bits) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/Vipul987654/Leetcode-DSA-workbook/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 ## Tree
 |  |
