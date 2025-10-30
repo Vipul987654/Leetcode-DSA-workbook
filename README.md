@@ -47,6 +47,7 @@ my work on leetcode to strengthen my logic building and to refresh Core concepts
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/Vipul987654/Leetcode-DSA-workbook/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/Vipul987654/leethub/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/Vipul987654/leethub/tree/master/1510-find-lucky-integer-in-an-array) |
+| [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/Vipul987654/Leetcode-DSA-workbook/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [1656-count-good-triplets](https://github.com/Vipul987654/leethub/tree/master/1656-count-good-triplets) |
 | [1704-special-positions-in-a-binary-matrix](https://github.com/Vipul987654/leethub/tree/master/1704-special-positions-in-a-binary-matrix) |
 | [2277-count-equal-and-divisible-pairs-in-an-array](https://github.com/Vipul987654/leethub/tree/master/2277-count-equal-and-divisible-pairs-in-an-array) |
@@ -77,6 +78,7 @@ my work on leetcode to strengthen my logic building and to refresh Core concepts
 | [0118-pascals-triangle](https://github.com/Vipul987654/leethub/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Vipul987654/leethub/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [1013-fibonacci-number](https://github.com/Vipul987654/Leetcode-DSA-workbook/tree/master/1013-fibonacci-number) |
+| [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/Vipul987654/Leetcode-DSA-workbook/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [3490-find-the-maximum-length-of-valid-subsequence-i](https://github.com/Vipul987654/leethub/tree/master/3490-find-the-maximum-length-of-valid-subsequence-i) |
 ## Greedy
 |  |
@@ -87,6 +89,7 @@ my work on leetcode to strengthen my logic building and to refresh Core concepts
 | [0179-largest-number](https://github.com/Vipul987654/leethub/tree/master/0179-largest-number) |
 | [0797-rabbits-in-forest](https://github.com/Vipul987654/leethub/tree/master/0797-rabbits-in-forest) |
 | [1018-largest-perimeter-triangle](https://github.com/Vipul987654/Leetcode-DSA-workbook/tree/master/1018-largest-perimeter-triangle) |
+| [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/Vipul987654/Leetcode-DSA-workbook/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [2032-largest-odd-number-in-string](https://github.com/Vipul987654/leethub/tree/master/2032-largest-odd-number-in-string) |
 | [3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros](https://github.com/Vipul987654/leethub/tree/master/3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros) |
 | [3620-maximum-number-of-distinct-elements-after-operations](https://github.com/Vipul987654/Leetcode-DSA-workbook/tree/master/3620-maximum-number-of-distinct-elements-after-operations) |
@@ -247,6 +250,7 @@ my work on leetcode to strengthen my logic building and to refresh Core concepts
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/Vipul987654/leethub/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Vipul987654/leethub/tree/master/0144-binary-tree-preorder-traversal) |
+| [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/Vipul987654/Leetcode-DSA-workbook/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -337,4 +341,8 @@ my work on leetcode to strengthen my logic building and to refresh Core concepts
 |  |
 | ------- |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/Vipul987654/Leetcode-DSA-workbook/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
+## Monotonic Stack
+|  |
+| ------- |
+| [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/Vipul987654/Leetcode-DSA-workbook/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 <!---LeetCode Topics End-->
