@@ -1,4 +1,9 @@
-my work on leetcode to strengthen my logic building and to refresh Core concepts
+ 🧩 DSA & LeetCode Solutions
+
+ A collection of my daily DSA practice and LeetCode problem solutions.  
+💻 Written mainly in **Java**, focusing on **clarity**, **efficiency**, and **learning**.
+ 🚀 Goal: To build strong problem-solving skills and prepare for coding interviews.
+
 <!---LeetCode Topics Start-->
 # LeetCode Topics
 ## Divide and Conquer
