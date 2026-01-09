@@ -321,6 +321,7 @@
 ## Database
 |  |
 | ------- |
+| [0175-combine-two-tables](https://github.com/Vipul987654/Leetcode-DSA-workbook/tree/master/0175-combine-two-tables) |
 | [1174-sales-analysis-iii](https://github.com/Vipul987654/Leetcode-DSA-workbook/tree/master/1174-sales-analysis-iii) |
 ## Trie
 |  |
