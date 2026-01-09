@@ -322,6 +322,7 @@
 |  |
 | ------- |
 | [0175-combine-two-tables](https://github.com/Vipul987654/Leetcode-DSA-workbook/tree/master/0175-combine-two-tables) |
+| [0181-employees-earning-more-than-their-managers](https://github.com/Vipul987654/Leetcode-DSA-workbook/tree/master/0181-employees-earning-more-than-their-managers) |
 | [1174-sales-analysis-iii](https://github.com/Vipul987654/Leetcode-DSA-workbook/tree/master/1174-sales-analysis-iii) |
 ## Trie
 |  |
