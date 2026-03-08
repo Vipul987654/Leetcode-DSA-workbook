@@ -55,6 +55,7 @@
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/Vipul987654/Leetcode-DSA-workbook/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [1656-count-good-triplets](https://github.com/Vipul987654/leethub/tree/master/1656-count-good-triplets) |
 | [1704-special-positions-in-a-binary-matrix](https://github.com/Vipul987654/leethub/tree/master/1704-special-positions-in-a-binary-matrix) |
+| [1980-find-unique-binary-string](https://github.com/Vipul987654/Leetcode-DSA-workbook/tree/master/1980-find-unique-binary-string) |
 | [2277-count-equal-and-divisible-pairs-in-an-array](https://github.com/Vipul987654/leethub/tree/master/2277-count-equal-and-divisible-pairs-in-an-array) |
 | [2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1](https://github.com/Vipul987654/Leetcode-DSA-workbook/tree/master/2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1) |
 | [3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros](https://github.com/Vipul987654/leethub/tree/master/3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros) |
@@ -125,6 +126,7 @@
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/Vipul987654/Leetcode-DSA-workbook/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/Vipul987654/leethub/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1746-largest-substring-between-two-equal-characters](https://github.com/Vipul987654/leethub/tree/master/1746-largest-substring-between-two-equal-characters) |
+| [1980-find-unique-binary-string](https://github.com/Vipul987654/Leetcode-DSA-workbook/tree/master/1980-find-unique-binary-string) |
 | [2174-next-greater-numerically-balanced-number](https://github.com/Vipul987654/Leetcode-DSA-workbook/tree/master/2174-next-greater-numerically-balanced-number) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/Vipul987654/Leetcode-DSA-workbook/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/Vipul987654/Leetcode-DSA-workbook/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
@@ -257,6 +259,7 @@
 | [1302-delete-characters-to-make-fancy-string](https://github.com/Vipul987654/leethub/tree/master/1302-delete-characters-to-make-fancy-string) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/Vipul987654/Leetcode-DSA-workbook/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1746-largest-substring-between-two-equal-characters](https://github.com/Vipul987654/leethub/tree/master/1746-largest-substring-between-two-equal-characters) |
+| [1980-find-unique-binary-string](https://github.com/Vipul987654/Leetcode-DSA-workbook/tree/master/1980-find-unique-binary-string) |
 | [2032-largest-odd-number-in-string](https://github.com/Vipul987654/leethub/tree/master/2032-largest-odd-number-in-string) |
 | [2346-largest-3-same-digit-number-in-string](https://github.com/Vipul987654/leethub/tree/master/2346-largest-3-same-digit-number-in-string) |
 | [3194-find-words-containing-character](https://github.com/Vipul987654/Leetcode-DSA-workbook/tree/master/3194-find-words-containing-character) |
@@ -304,6 +307,7 @@
 |  |
 | ------- |
 | [0039-combination-sum](https://github.com/Vipul987654/leethub/tree/master/0039-combination-sum) |
+| [1980-find-unique-binary-string](https://github.com/Vipul987654/Leetcode-DSA-workbook/tree/master/1980-find-unique-binary-string) |
 | [2174-next-greater-numerically-balanced-number](https://github.com/Vipul987654/Leetcode-DSA-workbook/tree/master/2174-next-greater-numerically-balanced-number) |
 ## Simulation
 |  |
