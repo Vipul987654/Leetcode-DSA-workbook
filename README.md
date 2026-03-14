@@ -9,6 +9,7 @@
 ## Divide and Conquer
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/Vipul987654/Leetcode-DSA-workbook/tree/master/0004-median-of-two-sorted-arrays) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Vipul987654/leethub/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/Vipul987654/leethub/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0169-majority-element](https://github.com/Vipul987654/leethub/tree/master/0169-majority-element) |
@@ -27,6 +28,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Vipul987654/leethub/tree/master/0001-two-sum) |
+| [0004-median-of-two-sorted-arrays](https://github.com/Vipul987654/Leetcode-DSA-workbook/tree/master/0004-median-of-two-sorted-arrays) |
 | [0011-container-with-most-water](https://github.com/Vipul987654/Leetcode-DSA-workbook/tree/master/0011-container-with-most-water) |
 | [0014-longest-common-prefix](https://github.com/Vipul987654/Leetcode-DSA-workbook/tree/master/0014-longest-common-prefix) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Vipul987654/leethub/tree/master/0026-remove-duplicates-from-sorted-array) |
@@ -276,6 +278,7 @@
 ## Binary Search Tree
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/Vipul987654/Leetcode-DSA-workbook/tree/master/0004-median-of-two-sorted-arrays) |
 | [0098-validate-binary-search-tree](https://github.com/Vipul987654/leethub/tree/master/0098-validate-binary-search-tree) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Vipul987654/leethub/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/Vipul987654/leethub/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
